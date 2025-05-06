@@ -55,9 +55,9 @@ This quote inspired the test win button because, truth be told, I never managed 
 
 ## Postmortem
 
-This project gave me a new appreciation for the complexity of seemingly "simple" card games. Between logic, UX, and edge-case handling, there's a lot that goes into replicating the feel of Solitaire.
+This project gave me a new appreciation for the complexity of seemingly "simple" card games. Between logic, UX, and edge case handling, there's a lot that goes into replicating the feel of Solitaire.
 
-I’m proud of how far I got—especially considering this is one of the first full projects I’ve done in Lua while learning about patterns and game workflows.
+I’m proud of how far I got especially considering this is one of the first full projects I’ve done in Lua while learning about patterns and game workflows.
 
 ---
 
@@ -82,4 +82,5 @@ I’m proud of how far I got—especially considering this is one of the first f
 - [LÖVE2D](https://love2d.org/) engine installed to run the game
 
 ---
-
+## Additional Credits
+- Chatgpt really helped out in formating this readme.md file I basically explained the contents of my project pdf and I had chatgpt help me with all the nice titles and other things like quotes bullet point formats and so on. This is the first time I really used the readme file like this because I never had the chance to learn how to use it so I thought it was worth a shot to see how it turns out.
